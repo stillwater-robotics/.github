@@ -7,3 +7,9 @@ BAM! oil all ovver. bleh bleh bleh! geese crying. Ducks with slicked back feathe
 Its our mission to make robots that document this. Then someone could fix it after or something.
 
 Guys I shouldn't be in charge of this README
+
+
+### Repo Naming Scheme
+(Simple pitch):\\
+All lowercase, in the form `<module>/base-reponame`. \\
+Ex. `base-comapi`, `aut-state-estimation`
