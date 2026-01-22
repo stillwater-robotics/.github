@@ -1,15 +1,14 @@
 # Stillwater Robotics
+Designing a swarm of Autonomous Underwater Vehicles (AUVs) to monitor oil spills in freshwater lakes. 
 
-Imagine a mission statement here. Something serene and beuatiful.
+### Team
+Sophile Villemure  
+Jai Moraes  
+Stuart Logan  
+Sabrina Button 
 
-BAM! oil all ovver. bleh bleh bleh! geese crying. Ducks with slicked back feathers like the movie grease. Actual grease.
-
-Its our mission to make robots that document this. Then someone could fix it after or something.
-
-Guys I shouldn't be in charge of this README
-
-
-### Repo Naming Scheme
-(Simple pitch):\\
-All lowercase, in the form `<module>/base-reponame`. \\
-Ex. `base-internal-com-api`, `aut-state-estimation`
+### Repository Naming Scheme
+**_SUBMODULES:_** All lowercase, in the form `repo-name`.  
+Ex. `base-internal-com-api`, `state-estimator`  
+  
+**_SUBMODULE PARENTS:_** Place 'ROOT' in all caps in front of the otherwise lowercase repo name `ROOT-repo-name`.  \\ Ex. `ROOT-simulation`
