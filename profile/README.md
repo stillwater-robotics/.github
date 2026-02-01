@@ -1,13 +1,13 @@
 # Stillwater Robotics
 Designing a swarm of Autonomous Underwater Vehicles (AUVs) to monitor oil spills in freshwater lakes. 
 
-### Team
+## Team
 Sophile Villemure  
 Jai Moraes  
 Stuart Logan  
 Sabrina Button 
 
-### Repository Naming Scheme
+## Repository Naming Scheme
 **_SUBMODULES:_** All lowercase, in the form `repo-name`.  
 Ex. `base-internal-com-api`, `state-estimator`  
   
